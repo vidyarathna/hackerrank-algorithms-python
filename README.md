@@ -6,5 +6,7 @@ This repository contains my solutions to various algorithm challenges from Hacke
 
 - [Solve Me First](solve-me-first/solution.py)
 
+- [Solution](compare-triplets/solution.py)
+
 - [Simple Array Sum](simple-array-sum/solution.py)
 

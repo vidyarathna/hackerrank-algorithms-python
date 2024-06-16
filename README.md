@@ -13,3 +13,5 @@ This repository contains my solutions to various algorithm challenges from Hacke
 - [Simple Array Sum](simple-array-sum/solution.py)
 
 - [Diagonal Difference](diagonal-difference/solution.py)
+
+- [Plus Minus](plus-minus/solution.py)

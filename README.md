@@ -17,3 +17,7 @@ This repository contains my solutions to various algorithm challenges from Hacke
 - [Plus Minus](plus-minus/solution.py)
 
 - [Staircase](staircase/solution.py)
+
+- [Mini-Max Sum](mini-max-sum/solution.py)
+
+- [Birthday Cake Candles](birthday-cake-candles/solution.py)

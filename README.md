@@ -15,3 +15,5 @@ This repository contains my solutions to various algorithm challenges from Hacke
 - [Diagonal Difference](diagonal-difference/solution.py)
 
 - [Plus Minus](plus-minus/solution.py)
+
+- [Staircase](staircase/solution.py)

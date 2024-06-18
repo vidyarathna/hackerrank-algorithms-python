@@ -23,3 +23,7 @@ This repository contains my solutions to various algorithm challenges from Hacke
 - [Birthday Cake Candles](birthday-cake-candles/solution.py)
 
 - [Time Conversion](time-conversion/solution.py)
+
+- [Grading Students](grading-students/solution.py)
+
+- [Count Apples and Oranges](count-apples-and-oranges/solution.py)

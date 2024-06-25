@@ -27,3 +27,5 @@ This repository contains my solutions to various algorithm challenges from Hacke
 - [Grading Students](grading-students/solution.py)
 
 - [Count Apples and Oranges](count-apples-and-oranges/solution.py)
+
+- [Count Apples and Oranges](count-apples-and-oranges/solution.py)
